@@ -1,0 +1,9 @@
+# Steps #
+  1. Create 5 tutorials using jTutors. Verify with Aniket.
+  1. Annotate the tutorials with hints and description. Verify.
+  1. Arrange for text book as mentioned in the IRB proposal. Make copies of pages from the textbook.
+  1. Create an "how -to" list for the users. This should explain what are they expected to do. <br />Eg. Create a login. Click on the "tutor search". Select the tutor named "ABABBA" from the list. You are expected to read and understand that particular topic in Java. For accomplishing this, please read the tutorial description carefully. You can access this description at any time. ...........
+  1. Set up a website for students to register for the experiment. Ensure that both of us, or at least one of us are free during that time. Get this website approved from Chris, asap.
+  1. Test the created tutorials thoroughly to ensure that there are no glitches whatsoever. Each time before testing the tutorial, try using various different "student logins".
+  1. Change the text of "begin lesson" to "launch". Besides this launch button, write a note mentioning what is expected from the student. Example: If the deliverable is an example, "**Attention**: A pop-up will open on clicking "Launch". Please read the **java example** carefully. Pay **special attention** towards the bold fields. After you are done reading the example, **please press DONE at bottom left and then click Close**. This will enable us to pursue the experiment successfully.<br />Similar comment for quiz.
+  1. Send the link of the registration website to a friend. Someone who has not used the interface yet. Ask him/her to register and invite to the EUSES lab. Introduce the goal of the experiment again, just like we'd do in the real experiment. Conduct the experiment.
